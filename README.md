@@ -17,12 +17,32 @@ List
 - [ ] [binomial-quantile](https://github.com/distributions-io/binomial-quantile)
 - [ ] [binomial-mgf](https://github.com/distributions-io/binomial-mgf)
 
+### Cauchy Distribution
+
+- [ ] [cauchy-pdf](https://github.com/distributions-io/cauchy-pdf)
+- [ ] [cauchy-cdf](https://github.com/distributions-io/cauchy-cdf)
+- [ ] [cauchy-quantile](https://github.com/distributions-io/cauchy-quantile)
+
+### Chisquare Distribution
+
+- [ ] [chisquare-pdf](https://github.com/distributions-io/chisquare-pdf)
+- [ ] [chisquare-cdf](https://github.com/distributions-io/chisquare-cdf)
+- [ ] [chisquare-quantile](https://github.com/distributions-io/chisquare-quantile)
+- [ ] [chisquare-mgf](https://github.com/distributions-io/chisquare-mgf)
+
 ### Dirichlet Distribution
 
 - [ ] [dirichlet-pdf](https://github.com/distributions-io/dirichlet-pdf)
 - [ ] [dirichlet-cdf](https://github.com/distributions-io/dirichlet-cdf)
 - [ ] [dirichlet-quantile](https://github.com/distributions-io/dirichlet-quantile)
 - [ ] [dirichlet-mgf](https://github.com/distributions-io/dirichlet-mgf)
+- 
+### Exponential Distribution
+
+- [ ] [exponential-pdf](https://github.com/distributions-io/exponential-pdf)
+- [ ] [exponential-cdf](https://github.com/distributions-io/exponential-cdf)
+- [ ] [exponential-quantile](https://github.com/distributions-io/exponential-quantile)
+- [ ] [exponential-mgf](https://github.com/distributions-io/exponential-mgf)
 
 ### F Distribution
 
@@ -45,6 +65,20 @@ List
 - [ ] [hypergeometric-quantile](https://github.com/distributions-io/hypergeometric-quantile)
 - [ ] [hypergeometric-mgf](https://github.com/distributions-io/hypergeometric-mgf)
 
+### Laplace / Double Exponential Distribution
+
+- [ ] [laplace-pdf](https://github.com/distributions-io/laplace-pdf)
+- [ ] [laplace-cdf](https://github.com/distributions-io/laplace-cdf)
+- [ ] [laplace-quantile](https://github.com/distributions-io/laplace-quantile)
+- [ ] [laplace-mgf](https://github.com/distributions-io/laplace-mgf)
+
+### Lognormal Distribution
+
+- [ ] [lognormal-pdf](https://github.com/distributions-io/lognormal-pdf)
+- [ ] [lognormal-cdf](https://github.com/distributions-io/lognormal-cdf)
+- [ ] [lognormal-quantile](https://github.com/distributions-io/lognormal-quantile)
+- [ ] [lognormal-mgf](https://github.com/distributions-io/lognormal-mgf)
+
 ### Multinomial Distribution
 
 - [ ] [multinomial-pmf](https://github.com/distributions-io/multinomial-pmf)
@@ -59,6 +93,13 @@ List
 - [ ] [normal-quantile](https://github.com/distributions-io/normal-quantile)
 - [ ] [normal-mgf](https://github.com/distributions-io/normal-mgf)
 
+### Pareto Distribution
+
+- [x] [pareto-pdf](https://github.com/distributions-io/pareto-pdf)
+- [ ] [pareto-cdf](https://github.com/distributions-io/pareto-cdf)
+- [ ] [pareto-quantile](https://github.com/distributions-io/pareto-quantile)
+- [ ] [pareto-mgf](https://github.com/distributions-io/pareto-mgf)
+
 ### Poisson Distribution
 
 - [x] [poisson-pmf](https://github.com/distributions-io/poisson-pmf)
@@ -72,6 +113,13 @@ List
 - [ ] [t-cdf](https://github.com/distributions-io/t-cdf)
 - [ ] [t-quantile](https://github.com/distributions-io/t-quantile)
 - [ ] [t-mgf](https://github.com/distributions-io/t-mgf)
+ 
+### Continuous Uniform Distribution
+
+- [ ] [uniform-pdf](https://github.com/distributions-io/uniform-pdf)
+- [ ] [uniform-cdf](https://github.com/distributions-io/uniform-cdf)
+- [ ] [uniform-quantile](https://github.com/distributions-io/uniform-quantile)
+- [ ] [uniform-mgf](https://github.com/distributions-io/uniform-mgf)
 
 ### Weibull Distribution
 
