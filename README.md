@@ -36,10 +36,10 @@ List
 - [ ] [dirichlet-cdf](https://github.com/distributions-io/dirichlet-cdf)
 - [ ] [dirichlet-quantile](https://github.com/distributions-io/dirichlet-quantile)
 - [ ] [dirichlet-mgf](https://github.com/distributions-io/dirichlet-mgf)
-- 
+
 ### Exponential Distribution
 
-- [ ] [exponential-pdf](https://github.com/distributions-io/exponential-pdf)
+- [x] [exponential-pdf](https://github.com/distributions-io/exponential-pdf)
 - [ ] [exponential-cdf](https://github.com/distributions-io/exponential-cdf)
 - [ ] [exponential-quantile](https://github.com/distributions-io/exponential-quantile)
 - [ ] [exponential-mgf](https://github.com/distributions-io/exponential-mgf)
@@ -67,7 +67,7 @@ List
 
 ### Laplace / Double Exponential Distribution
 
-- [ ] [laplace-pdf](https://github.com/distributions-io/laplace-pdf)
+- [x] [laplace-pdf](https://github.com/distributions-io/laplace-pdf)
 - [ ] [laplace-cdf](https://github.com/distributions-io/laplace-cdf)
 - [ ] [laplace-quantile](https://github.com/distributions-io/laplace-quantile)
 - [ ] [laplace-mgf](https://github.com/distributions-io/laplace-mgf)
@@ -116,7 +116,7 @@ List
  
 ### Continuous Uniform Distribution
 
-- [ ] [uniform-pdf](https://github.com/distributions-io/uniform-pdf)
+- [x] [uniform-pdf](https://github.com/distributions-io/uniform-pdf)
 - [ ] [uniform-cdf](https://github.com/distributions-io/uniform-cdf)
 - [ ] [uniform-quantile](https://github.com/distributions-io/uniform-quantile)
 - [ ] [uniform-mgf](https://github.com/distributions-io/uniform-mgf)
