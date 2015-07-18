@@ -25,7 +25,7 @@ List
 
 ### Chisquare Distribution
 
-- [ ] [chisquare-pdf](https://github.com/distributions-io/chisquare-pdf)
+- [x] [chisquare-pdf](https://github.com/distributions-io/chisquare-pdf)
 - [ ] [chisquare-cdf](https://github.com/distributions-io/chisquare-cdf)
 - [ ] [chisquare-quantile](https://github.com/distributions-io/chisquare-quantile)
 - [ ] [chisquare-mgf](https://github.com/distributions-io/chisquare-mgf)
@@ -65,6 +65,12 @@ List
 - [ ] [hypergeometric-quantile](https://github.com/distributions-io/hypergeometric-quantile)
 - [ ] [hypergeometric-mgf](https://github.com/distributions-io/hypergeometric-mgf)
 
+### Inverse-Gamma Distribution
+
+- [x] [invgamma-pdf](https://github.com/distributions-io/invgamma-pdf)
+- [ ] [invgamma-cdf](https://github.com/distributions-io/invgamma-cdf)
+- [ ] [invgamma-quantile](https://github.com/distributions-io/invgamma-quantile)
+
 ### Laplace / Double Exponential Distribution
 
 - [x] [laplace-pdf](https://github.com/distributions-io/laplace-pdf)
@@ -77,7 +83,6 @@ List
 - [ ] [lognormal-pdf](https://github.com/distributions-io/lognormal-pdf)
 - [ ] [lognormal-cdf](https://github.com/distributions-io/lognormal-cdf)
 - [ ] [lognormal-quantile](https://github.com/distributions-io/lognormal-quantile)
-- [ ] [lognormal-mgf](https://github.com/distributions-io/lognormal-mgf)
 
 ### Multinomial Distribution
 
