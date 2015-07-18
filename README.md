@@ -19,7 +19,7 @@ List
 
 ### Cauchy Distribution
 
-- [ ] [cauchy-pdf](https://github.com/distributions-io/cauchy-pdf)
+- [x] [cauchy-pdf](https://github.com/distributions-io/cauchy-pdf)
 - [ ] [cauchy-cdf](https://github.com/distributions-io/cauchy-cdf)
 - [ ] [cauchy-quantile](https://github.com/distributions-io/cauchy-quantile)
 
@@ -80,7 +80,7 @@ List
 
 ### Lognormal Distribution
 
-- [ ] [lognormal-pdf](https://github.com/distributions-io/lognormal-pdf)
+- [x] [lognormal-pdf](https://github.com/distributions-io/lognormal-pdf)
 - [ ] [lognormal-cdf](https://github.com/distributions-io/lognormal-cdf)
 - [ ] [lognormal-quantile](https://github.com/distributions-io/lognormal-quantile)
 
