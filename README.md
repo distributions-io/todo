@@ -114,7 +114,7 @@ List
 
 ### Student's t Distribution
 
-- [ ] [t-pdf](https://github.com/distributions-io/t-pdf)
+- [x] [t-pdf](https://github.com/distributions-io/t-pdf)
 - [ ] [t-cdf](https://github.com/distributions-io/t-cdf)
 - [ ] [t-quantile](https://github.com/distributions-io/t-quantile)
 - [ ] [t-mgf](https://github.com/distributions-io/t-mgf)
@@ -123,12 +123,12 @@ List
 
 - [x] [uniform-pdf](https://github.com/distributions-io/uniform-pdf)
 - [ ] [uniform-cdf](https://github.com/distributions-io/uniform-cdf)
-- [ ] [uniform-quantile](https://github.com/distributions-io/uniform-quantile)
+- [x] [uniform-quantile](https://github.com/distributions-io/uniform-quantile)
 - [ ] [uniform-mgf](https://github.com/distributions-io/uniform-mgf)
 
 ### Weibull Distribution
 
 - [x] [weibull-pdf](https://github.com/distributions-io/weibull-pdf)
 - [ ] [weibull-cdf](https://github.com/distributions-io/weibull-cdf)
-- [ ] [weibull-quantile](https://github.com/distributions-io/weibull-quantile)
+- [x] [weibull-quantile](https://github.com/distributions-io/weibull-quantile)
 - [ ] [weibull-mgf](https://github.com/distributions-io/weibull-mgf)
