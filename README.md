@@ -21,7 +21,7 @@ List
 
 - [x] [cauchy-pdf](https://github.com/distributions-io/cauchy-pdf)
 - [ ] [cauchy-cdf](https://github.com/distributions-io/cauchy-cdf)
-- [ ] [cauchy-quantile](https://github.com/distributions-io/cauchy-quantile)
+- [x] [cauchy-quantile](https://github.com/distributions-io/cauchy-quantile)
 
 ### Chisquare Distribution
 
@@ -41,7 +41,7 @@ List
 
 - [x] [exponential-pdf](https://github.com/distributions-io/exponential-pdf)
 - [ ] [exponential-cdf](https://github.com/distributions-io/exponential-cdf)
-- [ ] [exponential-quantile](https://github.com/distributions-io/exponential-quantile)
+- [x] [exponential-quantile](https://github.com/distributions-io/exponential-quantile)
 - [ ] [exponential-mgf](https://github.com/distributions-io/exponential-mgf)
 
 ### F Distribution
@@ -95,7 +95,7 @@ List
 
 - [x] [normal-pdf](https://github.com/distributions-io/normal-pdf)
 - [ ] [normal-cdf](https://github.com/distributions-io/normal-cdf)
-- [ ] [normal-quantile](https://github.com/distributions-io/normal-quantile)
+- [x] [normal-quantile](https://github.com/distributions-io/normal-quantile)
 - [ ] [normal-mgf](https://github.com/distributions-io/normal-mgf)
 
 ### Pareto Distribution
