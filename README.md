@@ -58,6 +58,13 @@ List
 - [ ] [gamma-quantile](https://github.com/distributions-io/gamma-quantile)
 - [ ] [gamma-mgf](https://github.com/distributions-io/gamma-mgf)
 
+### Gumbel Distribution
+
+- [ ] [gumbel-pdf](https://github.com/distributions-io/gumbel-pdf)
+- [ ] [gumbel-cdf](https://github.com/distributions-io/gumbel-cdf)
+- [ ] [gumbel-quantile](https://github.com/distributions-io/gumbel-quantile)
+- [ ] [gumbel-mgf](https://github.com/distributions-io/gumbel-mgf)
+
 ### Hypergeometric Distribution
 
 - [ ] [hypergeometric-pmf](https://github.com/distributions-io/hypergeometric-pmf)
@@ -118,6 +125,13 @@ List
 - [ ] [poisson-cdf](https://github.com/distributions-io/poisson-cdf)
 - [ ] [poisson-quantile](https://github.com/distributions-io/poisson-quantile)
 - [ ] [poisson-mgf](https://github.com/distributions-io/poisson-mgf)
+
+### Rayleigh Distribution
+
+- [ ] [rayleigh-pmf](https://github.com/distributions-io/rayleigh-pmf)
+- [ ] [rayleigh-cdf](https://github.com/distributions-io/rayleigh-cdf)
+- [ ] [rayleigh-quantile](https://github.com/distributions-io/rayleigh-quantile)
+- [ ] [rayleigh-mgf](https://github.com/distributions-io/rayleigh-mgf)
 
 ### Student's t Distribution
 
