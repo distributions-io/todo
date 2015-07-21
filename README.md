@@ -67,7 +67,7 @@ List
 ### Exponential Distribution
 
 - [x] [exponential-pdf](https://github.com/distributions-io/exponential-pdf)
-- [ ] [exponential-cdf](https://github.com/distributions-io/exponential-cdf)
+- [x] [exponential-cdf](https://github.com/distributions-io/exponential-cdf)
 - [x] [exponential-quantile](https://github.com/distributions-io/exponential-quantile)
 - [ ] [exponential-mgf](https://github.com/distributions-io/exponential-mgf)
 
@@ -120,7 +120,7 @@ List
 
 ### Rayleigh Distribution
 
-- [ ] [rayleigh-pdf](https://github.com/distributions-io/rayleigh-pmf)
+- [ ] [rayleigh-pdf](https://github.com/distributions-io/rayleigh-pdf)
 - [ ] [rayleigh-cdf](https://github.com/distributions-io/rayleigh-cdf)
 - [ ] [rayleigh-quantile](https://github.com/distributions-io/rayleigh-quantile)
 - [ ] [rayleigh-mgf](https://github.com/distributions-io/rayleigh-mgf)
