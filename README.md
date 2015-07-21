@@ -80,9 +80,9 @@ List
 
 ### Logistic Distribution
 
-- [ ] [logistic-pdf](https://github.com/distributions-io/logistic-pdf)
-- [ ] [logistic-cdf](https://github.com/distributions-io/logistic-cdf)
-- [ ] [logistic-quantile](https://github.com/distributions-io/logistic-quantile)
+- [x] [logistic-pdf](https://github.com/distributions-io/logistic-pdf)
+- [x] [logistic-cdf](https://github.com/distributions-io/logistic-cdf)
+- [x] [logistic-quantile](https://github.com/distributions-io/logistic-quantile)
 - [ ] [logistic-mgf](https://github.com/distributions-io/logistic-mgf)
 
 ### Lognormal Distribution
