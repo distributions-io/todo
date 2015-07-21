@@ -87,9 +87,9 @@ List
 
 ### Gumbel Distribution
 
-- [ ] [gumbel-pdf](https://github.com/distributions-io/gumbel-pdf)
-- [ ] [gumbel-cdf](https://github.com/distributions-io/gumbel-cdf)
-- [ ] [gumbel-quantile](https://github.com/distributions-io/gumbel-quantile)
+- [x] [gumbel-pdf](https://github.com/distributions-io/gumbel-pdf)
+- [x] [gumbel-cdf](https://github.com/distributions-io/gumbel-cdf)
+- [x] [gumbel-quantile](https://github.com/distributions-io/gumbel-quantile)
 - [ ] [gumbel-mgf](https://github.com/distributions-io/gumbel-mgf)
 
 ### Inverse-Gamma Distribution
