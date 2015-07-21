@@ -17,8 +17,8 @@ List
 ### Geometric Distribution
 
 - [ ] [geometric-pmf](https://github.com/distributions-io/geometric-pmf)
-- [ ] [geometric-cdf](https://github.com/distributions-io/geometric-cdf)
-- [ ] [geometric-quantile](https://github.com/distributions-io/geometric-quantile)
+- [x] [geometric-cdf](https://github.com/distributions-io/geometric-cdf)
+- [x] [geometric-quantile](https://github.com/distributions-io/geometric-quantile)
 - [ ] [geometric-mgf](https://github.com/distributions-io/geometric-mgf)
 
 ### Hypergeometric Distribution
@@ -120,7 +120,7 @@ List
 
 ### Rayleigh Distribution
 
-- [ ] [rayleigh-pdf](https://github.com/distributions-io/rayleigh-pdf)
+- [x] [rayleigh-pdf](https://github.com/distributions-io/rayleigh-pdf)
 - [ ] [rayleigh-cdf](https://github.com/distributions-io/rayleigh-cdf)
 - [ ] [rayleigh-quantile](https://github.com/distributions-io/rayleigh-quantile)
 - [ ] [rayleigh-mgf](https://github.com/distributions-io/rayleigh-mgf)
