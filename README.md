@@ -20,7 +20,7 @@ List
 ### Cauchy Distribution
 
 - [x] [cauchy-pdf](https://github.com/distributions-io/cauchy-pdf)
-- [ ] [cauchy-cdf](https://github.com/distributions-io/cauchy-cdf)
+- [x] [cauchy-cdf](https://github.com/distributions-io/cauchy-cdf)
 - [x] [cauchy-quantile](https://github.com/distributions-io/cauchy-quantile)
 
 ### Chisquare Distribution
@@ -101,7 +101,7 @@ List
 ### Normal Distribution
 
 - [x] [normal-pdf](https://github.com/distributions-io/normal-pdf)
-- [ ] [normal-cdf](https://github.com/distributions-io/normal-cdf)
+- [x] [normal-cdf](https://github.com/distributions-io/normal-cdf)
 - [x] [normal-quantile](https://github.com/distributions-io/normal-quantile)
 - [ ] [normal-mgf](https://github.com/distributions-io/normal-mgf)
 
