@@ -3,12 +3,9 @@ List
 
 > List of modules which need to be implemented
 
-### Beta Distribution
+# Univariate Distributions 
 
-- [x] [beta-pdf](https://github.com/distributions-io/beta-pdf)
-- [ ] [beta-cdf](https://github.com/distributions-io/beta-cdf)
-- [ ] [beta-quantile](https://github.com/distributions-io/beta-quantile)
-- [ ] [beta-mgf](https://github.com/distributions-io/beta-mgf)
+## Discrete Distributions
 
 ### Binomial Distribution
 
@@ -16,6 +13,43 @@ List
 - [ ] [binomial-cdf](https://github.com/distributions-io/binomial-cdf)
 - [ ] [binomial-quantile](https://github.com/distributions-io/binomial-quantile)
 - [ ] [binomial-mgf](https://github.com/distributions-io/binomial-mgf)
+
+### Geometric Distribution
+
+- [ ] [geometric-pmf](https://github.com/distributions-io/geometric-pmf)
+- [ ] [geometric-cdf](https://github.com/distributions-io/geometric-cdf)
+- [ ] [geometric-quantile](https://github.com/distributions-io/geometric-quantile)
+- [ ] [geometric-mgf](https://github.com/distributions-io/geometric-mgf)
+
+### Hypergeometric Distribution
+
+- [ ] [hypergeometric-pmf](https://github.com/distributions-io/hypergeometric-pmf)
+- [ ] [hypergeometric-cdf](https://github.com/distributions-io/hypergeometric-cdf)
+- [ ] [hypergeometric-quantile](https://github.com/distributions-io/hypergeometric-quantile)
+- [ ] [hypergeometric-mgf](https://github.com/distributions-io/hypergeometric-mgf)
+
+### Negative Binomial Distribution
+
+- [ ] [negbinomial-pmf](https://github.com/distributions-io/negbinomial-pmf)
+- [ ] [negbinomial-cdf](https://github.com/distributions-io/negbinomial-cdf)
+- [ ] [negbinomial-quantile](https://github.com/distributions-io/negbinomial-quantile)
+- [ ] [negbinomial-mgf](https://github.com/distributions-io/negbinomial-mgf)
+
+### Poisson Distribution
+
+- [x] [poisson-pmf](https://github.com/distributions-io/poisson-pmf)
+- [ ] [poisson-cdf](https://github.com/distributions-io/poisson-cdf)
+- [ ] [poisson-quantile](https://github.com/distributions-io/poisson-quantile)
+- [ ] [poisson-mgf](https://github.com/distributions-io/poisson-mgf)
+
+## Continuous Distributions
+
+### Beta Distribution
+
+- [x] [beta-pdf](https://github.com/distributions-io/beta-pdf)
+- [ ] [beta-cdf](https://github.com/distributions-io/beta-cdf)
+- [ ] [beta-quantile](https://github.com/distributions-io/beta-quantile)
+- [ ] [beta-mgf](https://github.com/distributions-io/beta-mgf)
 
 ### Cauchy Distribution
 
@@ -29,13 +63,6 @@ List
 - [ ] [chisquare-cdf](https://github.com/distributions-io/chisquare-cdf)
 - [ ] [chisquare-quantile](https://github.com/distributions-io/chisquare-quantile)
 - [ ] [chisquare-mgf](https://github.com/distributions-io/chisquare-mgf)
-
-### Dirichlet Distribution
-
-- [ ] [dirichlet-pdf](https://github.com/distributions-io/dirichlet-pdf)
-- [ ] [dirichlet-cdf](https://github.com/distributions-io/dirichlet-cdf)
-- [ ] [dirichlet-quantile](https://github.com/distributions-io/dirichlet-quantile)
-- [ ] [dirichlet-mgf](https://github.com/distributions-io/dirichlet-mgf)
 
 ### Exponential Distribution
 
@@ -65,13 +92,6 @@ List
 - [ ] [gumbel-quantile](https://github.com/distributions-io/gumbel-quantile)
 - [ ] [gumbel-mgf](https://github.com/distributions-io/gumbel-mgf)
 
-### Hypergeometric Distribution
-
-- [ ] [hypergeometric-pmf](https://github.com/distributions-io/hypergeometric-pmf)
-- [ ] [hypergeometric-cdf](https://github.com/distributions-io/hypergeometric-cdf)
-- [ ] [hypergeometric-quantile](https://github.com/distributions-io/hypergeometric-quantile)
-- [ ] [hypergeometric-mgf](https://github.com/distributions-io/hypergeometric-mgf)
-
 ### Inverse-Gamma Distribution
 
 - [x] [invgamma-pdf](https://github.com/distributions-io/invgamma-pdf)
@@ -98,12 +118,26 @@ List
 - [ ] [lognormal-cdf](https://github.com/distributions-io/lognormal-cdf)
 - [ ] [lognormal-quantile](https://github.com/distributions-io/lognormal-quantile)
 
-### Multinomial Distribution
+### Rayleigh Distribution
 
-- [ ] [multinomial-pmf](https://github.com/distributions-io/multinomial-pmf)
-- [ ] [multinomial-cdf](https://github.com/distributions-io/multinomial-cdf)
-- [ ] [multinomial-quantile](https://github.com/distributions-io/multinomial-quantile)
-- [ ] [multinomial-mgf](https://github.com/distributions-io/multinomial-mgf)
+- [ ] [rayleigh-pdf](https://github.com/distributions-io/rayleigh-pmf)
+- [ ] [rayleigh-cdf](https://github.com/distributions-io/rayleigh-cdf)
+- [ ] [rayleigh-quantile](https://github.com/distributions-io/rayleigh-quantile)
+- [ ] [rayleigh-mgf](https://github.com/distributions-io/rayleigh-mgf)
+
+### Student's t Distribution
+
+- [x] [t-pdf](https://github.com/distributions-io/t-pdf)
+- [ ] [t-cdf](https://github.com/distributions-io/t-cdf)
+- [ ] [t-quantile](https://github.com/distributions-io/t-quantile)
+- [ ] [t-mgf](https://github.com/distributions-io/t-mgf)
+ 
+### Continuous Uniform Distribution
+
+- [x] [uniform-pdf](https://github.com/distributions-io/uniform-pdf)
+- [x] [uniform-cdf](https://github.com/distributions-io/uniform-cdf)
+- [x] [uniform-quantile](https://github.com/distributions-io/uniform-quantile)
+- [ ] [uniform-mgf](https://github.com/distributions-io/uniform-mgf)
 
 ### Normal Distribution
 
@@ -119,37 +153,33 @@ List
 - [ ] [pareto-quantile](https://github.com/distributions-io/pareto-quantile)
 - [ ] [pareto-mgf](https://github.com/distributions-io/pareto-mgf)
 
-### Poisson Distribution
-
-- [x] [poisson-pmf](https://github.com/distributions-io/poisson-pmf)
-- [ ] [poisson-cdf](https://github.com/distributions-io/poisson-cdf)
-- [ ] [poisson-quantile](https://github.com/distributions-io/poisson-quantile)
-- [ ] [poisson-mgf](https://github.com/distributions-io/poisson-mgf)
-
-### Rayleigh Distribution
-
-- [ ] [rayleigh-pmf](https://github.com/distributions-io/rayleigh-pmf)
-- [ ] [rayleigh-cdf](https://github.com/distributions-io/rayleigh-cdf)
-- [ ] [rayleigh-quantile](https://github.com/distributions-io/rayleigh-quantile)
-- [ ] [rayleigh-mgf](https://github.com/distributions-io/rayleigh-mgf)
-
-### Student's t Distribution
-
-- [x] [t-pdf](https://github.com/distributions-io/t-pdf)
-- [ ] [t-cdf](https://github.com/distributions-io/t-cdf)
-- [ ] [t-quantile](https://github.com/distributions-io/t-quantile)
-- [ ] [t-mgf](https://github.com/distributions-io/t-mgf)
- 
-### Continuous Uniform Distribution
-
-- [x] [uniform-pdf](https://github.com/distributions-io/uniform-pdf)
-- [ ] [uniform-cdf](https://github.com/distributions-io/uniform-cdf)
-- [x] [uniform-quantile](https://github.com/distributions-io/uniform-quantile)
-- [ ] [uniform-mgf](https://github.com/distributions-io/uniform-mgf)
-
 ### Weibull Distribution
 
 - [x] [weibull-pdf](https://github.com/distributions-io/weibull-pdf)
 - [ ] [weibull-cdf](https://github.com/distributions-io/weibull-cdf)
 - [x] [weibull-quantile](https://github.com/distributions-io/weibull-quantile)
 - [ ] [weibull-mgf](https://github.com/distributions-io/weibull-mgf)
+
+# Multivariate Distributions
+
+### Dirichlet Distribution
+
+- [ ] [dirichlet-pdf](https://github.com/distributions-io/dirichlet-pdf)
+- [ ] [dirichlet-cdf](https://github.com/distributions-io/dirichlet-cdf)
+- [ ] [dirichlet-quantile](https://github.com/distributions-io/dirichlet-quantile)
+- [ ] [dirichlet-mgf](https://github.com/distributions-io/dirichlet-mgf)
+
+### Multinomial Distribution
+
+- [ ] [multinomial-pmf](https://github.com/distributions-io/multinomial-pmf)
+- [ ] [multinomial-cdf](https://github.com/distributions-io/multinomial-cdf)
+- [ ] [multinomial-quantile](https://github.com/distributions-io/multinomial-quantile)
+- [ ] [multinomial-mgf](https://github.com/distributions-io/multinomial-mgf)
+
+### Multivariate Normal
+
+- [ ] [mvtnormal-pdf](https://github.com/distributions-io/mvtnormal-pdf)
+- [ ] [mvtnormal-cdf](https://github.com/distributions-io/mvtnormal-cdf)
+- [ ] [mvtnormal-quantile](https://github.com/distributions-io/mvtnormal-quantile)
+- [ ] [mvtnormal-mgf](https://github.com/distributions-io/mvtnormal-mgf)
+
