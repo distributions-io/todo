@@ -75,8 +75,15 @@ List
 
 - [x] [laplace-pdf](https://github.com/distributions-io/laplace-pdf)
 - [ ] [laplace-cdf](https://github.com/distributions-io/laplace-cdf)
-- [ ] [laplace-quantile](https://github.com/distributions-io/laplace-quantile)
+- [x] [laplace-quantile](https://github.com/distributions-io/laplace-quantile)
 - [ ] [laplace-mgf](https://github.com/distributions-io/laplace-mgf)
+
+### Logistic Distribution
+
+- [ ] [logistic-pdf](https://github.com/distributions-io/logistic-pdf)
+- [ ] [logistic-cdf](https://github.com/distributions-io/logistic-cdf)
+- [ ] [logistic-quantile](https://github.com/distributions-io/logistic-quantile)
+- [ ] [logistic-mgf](https://github.com/distributions-io/logistic-mgf)
 
 ### Lognormal Distribution
 
