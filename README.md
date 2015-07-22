@@ -101,7 +101,7 @@ List
 ### Laplace / Double Exponential Distribution
 
 - [x] [laplace-pdf](https://github.com/distributions-io/laplace-pdf)
-- [ ] [laplace-cdf](https://github.com/distributions-io/laplace-cdf)
+- [x] [laplace-cdf](https://github.com/distributions-io/laplace-cdf)
 - [x] [laplace-quantile](https://github.com/distributions-io/laplace-quantile)
 - [ ] [laplace-mgf](https://github.com/distributions-io/laplace-mgf)
 
@@ -156,7 +156,7 @@ List
 ### Weibull Distribution
 
 - [x] [weibull-pdf](https://github.com/distributions-io/weibull-pdf)
-- [ ] [weibull-cdf](https://github.com/distributions-io/weibull-cdf)
+- [x] [weibull-cdf](https://github.com/distributions-io/weibull-cdf)
 - [x] [weibull-quantile](https://github.com/distributions-io/weibull-quantile)
 - [ ] [weibull-mgf](https://github.com/distributions-io/weibull-mgf)
 
