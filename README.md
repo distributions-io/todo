@@ -121,8 +121,8 @@ List
 ### Rayleigh Distribution
 
 - [x] [rayleigh-pdf](https://github.com/distributions-io/rayleigh-pdf)
-- [ ] [rayleigh-cdf](https://github.com/distributions-io/rayleigh-cdf)
-- [ ] [rayleigh-quantile](https://github.com/distributions-io/rayleigh-quantile)
+- [x] [rayleigh-cdf](https://github.com/distributions-io/rayleigh-cdf)
+- [x] [rayleigh-quantile](https://github.com/distributions-io/rayleigh-quantile)
 - [ ] [rayleigh-mgf](https://github.com/distributions-io/rayleigh-mgf)
 
 ### Student's t Distribution
