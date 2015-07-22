@@ -115,8 +115,8 @@ List
 ### Lognormal Distribution
 
 - [x] [lognormal-pdf](https://github.com/distributions-io/lognormal-pdf)
-- [ ] [lognormal-cdf](https://github.com/distributions-io/lognormal-cdf)
-- [ ] [lognormal-quantile](https://github.com/distributions-io/lognormal-quantile)
+- [x] [lognormal-cdf](https://github.com/distributions-io/lognormal-cdf)
+- [x] [lognormal-quantile](https://github.com/distributions-io/lognormal-quantile)
 
 ### Rayleigh Distribution
 
