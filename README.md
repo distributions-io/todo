@@ -38,7 +38,7 @@ List
 ### Poisson Distribution
 
 - [x] [poisson-pmf](https://github.com/distributions-io/poisson-pmf)
-- [ ] [poisson-cdf](https://github.com/distributions-io/poisson-cdf)
+- [x] [poisson-cdf](https://github.com/distributions-io/poisson-cdf)
 - [ ] [poisson-quantile](https://github.com/distributions-io/poisson-quantile)
 - [ ] [poisson-mgf](https://github.com/distributions-io/poisson-mgf)
 
@@ -60,8 +60,8 @@ List
 ### Chisquare Distribution
 
 - [x] [chisquare-pdf](https://github.com/distributions-io/chisquare-pdf)
-- [ ] [chisquare-cdf](https://github.com/distributions-io/chisquare-cdf)
-- [ ] [chisquare-quantile](https://github.com/distributions-io/chisquare-quantile)
+- [x] [chisquare-cdf](https://github.com/distributions-io/chisquare-cdf)
+- [x] [chisquare-quantile](https://github.com/distributions-io/chisquare-quantile)
 - [ ] [chisquare-mgf](https://github.com/distributions-io/chisquare-mgf)
 
 ### Exponential Distribution
