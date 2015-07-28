@@ -81,8 +81,8 @@ List
 ### Gamma Distribution
 
 - [x] [gamma-pdf](https://github.com/distributions-io/gamma-pdf)
-- [ ] [gamma-cdf](https://github.com/distributions-io/gamma-cdf)
-- [ ] [gamma-quantile](https://github.com/distributions-io/gamma-quantile)
+- [x] [gamma-cdf](https://github.com/distributions-io/gamma-cdf)
+- [x] [gamma-quantile](https://github.com/distributions-io/gamma-quantile)
 - [ ] [gamma-mgf](https://github.com/distributions-io/gamma-mgf)
 
 ### Gumbel Distribution
@@ -178,8 +178,8 @@ List
 
 ### Multivariate Normal
 
-- [ ] [mvtnormal-pdf](https://github.com/distributions-io/mvtnormal-pdf)
-- [ ] [mvtnormal-cdf](https://github.com/distributions-io/mvtnormal-cdf)
-- [ ] [mvtnormal-quantile](https://github.com/distributions-io/mvtnormal-quantile)
-- [ ] [mvtnormal-mgf](https://github.com/distributions-io/mvtnormal-mgf)
+- [ ] [mvnormal-pdf](https://github.com/distributions-io/mvnormal-pdf)
+- [ ] [mvnormal-cdf](https://github.com/distributions-io/mvnormal-cdf)
+- [ ] [mvnormal-quantile](https://github.com/distributions-io/mvnormal-quantile)
+- [ ] [mvnormal-mgf](https://github.com/distributions-io/mvnormal-mgf)
 
