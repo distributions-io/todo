@@ -47,8 +47,8 @@ List
 ### Beta Distribution
 
 - [x] [beta-pdf](https://github.com/distributions-io/beta-pdf)
-- [ ] [beta-cdf](https://github.com/distributions-io/beta-cdf)
-- [ ] [beta-quantile](https://github.com/distributions-io/beta-quantile)
+- [x] [beta-cdf](https://github.com/distributions-io/beta-cdf)
+- [x] [beta-quantile](https://github.com/distributions-io/beta-quantile)
 - [ ] [beta-mgf](https://github.com/distributions-io/beta-mgf)
 
 ### Cauchy Distribution
