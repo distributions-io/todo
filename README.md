@@ -95,8 +95,8 @@ List
 ### Inverse-Gamma Distribution
 
 - [x] [invgamma-pdf](https://github.com/distributions-io/invgamma-pdf)
-- [ ] [invgamma-cdf](https://github.com/distributions-io/invgamma-cdf)
-- [ ] [invgamma-quantile](https://github.com/distributions-io/invgamma-quantile)
+- [x] [invgamma-cdf](https://github.com/distributions-io/invgamma-cdf)
+- [x] [invgamma-quantile](https://github.com/distributions-io/invgamma-quantile)
 
 ### Laplace / Double Exponential Distribution
 
@@ -128,8 +128,8 @@ List
 ### Student's t Distribution
 
 - [x] [t-pdf](https://github.com/distributions-io/t-pdf)
-- [ ] [t-cdf](https://github.com/distributions-io/t-cdf)
-- [ ] [t-quantile](https://github.com/distributions-io/t-quantile)
+- [x] [t-cdf](https://github.com/distributions-io/t-cdf)
+- [x] [t-quantile](https://github.com/distributions-io/t-quantile)
 - [ ] [t-mgf](https://github.com/distributions-io/t-mgf)
  
 ### Continuous Uniform Distribution
