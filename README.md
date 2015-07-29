@@ -10,7 +10,7 @@ List
 ### Binomial Distribution
 
 - [x] [binomial-pmf](https://github.com/distributions-io/binomial-pmf)
-- [ ] [binomial-cdf](https://github.com/distributions-io/binomial-cdf)
+- [x] [binomial-cdf](https://github.com/distributions-io/binomial-cdf)
 - [ ] [binomial-quantile](https://github.com/distributions-io/binomial-quantile)
 - [ ] [binomial-mgf](https://github.com/distributions-io/binomial-mgf)
 
@@ -31,7 +31,7 @@ List
 ### Negative Binomial Distribution
 
 - [ ] [negbinomial-pmf](https://github.com/distributions-io/negbinomial-pmf)
-- [ ] [negbinomial-cdf](https://github.com/distributions-io/negbinomial-cdf)
+- [x] [negbinomial-cdf](https://github.com/distributions-io/negbinomial-cdf)
 - [ ] [negbinomial-quantile](https://github.com/distributions-io/negbinomial-quantile)
 - [ ] [negbinomial-mgf](https://github.com/distributions-io/negbinomial-mgf)
 
