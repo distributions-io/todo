@@ -74,8 +74,8 @@ List
 ### F Distribution
 
 - [ ] [f-pdf](https://github.com/distributions-io/f-pdf)
-- [ ] [f-cdf](https://github.com/distributions-io/f-cdf)
-- [ ] [f-quantile](https://github.com/distributions-io/f-quantile)
+- [x] [f-cdf](https://github.com/distributions-io/f-cdf)
+- [x] [f-quantile](https://github.com/distributions-io/f-quantile)
 - [ ] [f-mgf](https://github.com/distributions-io/f-mgf)
 
 ### Gamma Distribution
