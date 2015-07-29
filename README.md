@@ -39,7 +39,7 @@ List
 
 - [x] [poisson-pmf](https://github.com/distributions-io/poisson-pmf)
 - [x] [poisson-cdf](https://github.com/distributions-io/poisson-cdf)
-- [ ] [poisson-quantile](https://github.com/distributions-io/poisson-quantile)
+- [x] [poisson-quantile](https://github.com/distributions-io/poisson-quantile)
 - [ ] [poisson-mgf](https://github.com/distributions-io/poisson-mgf)
 
 ## Continuous Distributions
@@ -146,14 +146,14 @@ List
 - [x] [normal-quantile](https://github.com/distributions-io/normal-quantile)
 - [ ] [normal-mgf](https://github.com/distributions-io/normal-mgf)
 
-### Pareto Distribution
+### Pareto Distribution (Type 1) 
 
-- [x] [pareto-pdf](https://github.com/distributions-io/pareto-pdf)
-- [ ] [pareto-cdf](https://github.com/distributions-io/pareto-cdf)
-- [ ] [pareto-quantile](https://github.com/distributions-io/pareto-quantile)
-- [ ] [pareto-mgf](https://github.com/distributions-io/pareto-mgf)
+- [x] [pareto-type1-pdf](https://github.com/distributions-io/pareto-type1-pdf)
+- [ ] [pareto-type1-cdf](https://github.com/distributions-io/pareto-type1-cdf)
+- [ ] [pareto-type1-quantile](https://github.com/distributions-io/pareto-type1-quantile)
+- [ ] [pareto-type1-mgf](https://github.com/distributions-io/pareto-type1-mgf)
 
-### Weibull Distribution
+### Weibull Distribution 
 
 - [x] [weibull-pdf](https://github.com/distributions-io/weibull-pdf)
 - [x] [weibull-cdf](https://github.com/distributions-io/weibull-cdf)
