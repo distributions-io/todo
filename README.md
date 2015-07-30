@@ -16,7 +16,7 @@ List
 
 ### Geometric Distribution
 
-- [ ] [geometric-pmf](https://github.com/distributions-io/geometric-pmf)
+- [x] [geometric-pmf](https://github.com/distributions-io/geometric-pmf)
 - [x] [geometric-cdf](https://github.com/distributions-io/geometric-cdf)
 - [x] [geometric-quantile](https://github.com/distributions-io/geometric-quantile)
 - [ ] [geometric-mgf](https://github.com/distributions-io/geometric-mgf)
@@ -66,9 +66,9 @@ List
 
 ### Erlang Distribution
 
-- [ ] [erlang-pdf](https://github.com/distributions-io/erlang-pdf)
-- [ ] [erlang-cdf](https://github.com/distributions-io/erlang-cdf)
-- [ ] [erlang-quantile](https://github.com/distributions-io/erlang-quantile)
+- [x] [erlang-pdf](https://github.com/distributions-io/erlang-pdf)
+- [x] [erlang-cdf](https://github.com/distributions-io/erlang-cdf)
+- [x] [erlang-quantile](https://github.com/distributions-io/erlang-quantile)
 - [ ] [erlang-mgf](https://github.com/distributions-io/erlang-mgf)
 
 ### Exponential Distribution
