@@ -11,7 +11,7 @@ List
 
 - [x] [binomial-pmf](https://github.com/distributions-io/binomial-pmf)
 - [x] [binomial-cdf](https://github.com/distributions-io/binomial-cdf)
-- [ ] [binomial-quantile](https://github.com/distributions-io/binomial-quantile)
+- [x] [binomial-quantile](https://github.com/distributions-io/binomial-quantile)
 - [ ] [binomial-mgf](https://github.com/distributions-io/binomial-mgf)
 
 ### Geometric Distribution
@@ -32,7 +32,7 @@ List
 
 - [ ] [negbinomial-pmf](https://github.com/distributions-io/negbinomial-pmf)
 - [x] [negbinomial-cdf](https://github.com/distributions-io/negbinomial-cdf)
-- [ ] [negbinomial-quantile](https://github.com/distributions-io/negbinomial-quantile)
+- [x] [negbinomial-quantile](https://github.com/distributions-io/negbinomial-quantile)
 - [ ] [negbinomial-mgf](https://github.com/distributions-io/negbinomial-mgf)
 
 ### Poisson Distribution
@@ -63,6 +63,13 @@ List
 - [x] [chisquare-cdf](https://github.com/distributions-io/chisquare-cdf)
 - [x] [chisquare-quantile](https://github.com/distributions-io/chisquare-quantile)
 - [ ] [chisquare-mgf](https://github.com/distributions-io/chisquare-mgf)
+
+### Erlang Distribution
+
+- [ ] [erlang-pdf](https://github.com/distributions-io/erlang-pdf)
+- [ ] [erlang-cdf](https://github.com/distributions-io/erlang-cdf)
+- [ ] [erlang-quantile](https://github.com/distributions-io/erlang-quantile)
+- [ ] [erlang-mgf](https://github.com/distributions-io/erlang-mgf)
 
 ### Exponential Distribution
 
@@ -152,6 +159,13 @@ List
 - [ ] [pareto-type1-cdf](https://github.com/distributions-io/pareto-type1-cdf)
 - [ ] [pareto-type1-quantile](https://github.com/distributions-io/pareto-type1-quantile)
 - [ ] [pareto-type1-mgf](https://github.com/distributions-io/pareto-type1-mgf)
+
+### Triangular Distribution
+
+- [ ] [triangular-pdf](https://github.com/distributions-io/triangular-pdf)
+- [ ] [triangular-cdf](https://github.com/distributions-io/triangular-cdf)
+- [ ] [triangular-quantile](https://github.com/distributions-io/triangular-quantile)
+- [ ] [triangular-mgf](https://github.com/distributions-io/triangular-mgf)
 
 ### Weibull Distribution 
 
