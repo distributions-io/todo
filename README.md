@@ -319,9 +319,9 @@ List
 ### Triangular Distribution
 
 - [ ] [triangular](https://github.com/distributions-io/triangular)
-- [ ] [triangular-pdf](https://github.com/distributions-io/triangular-pdf)
-- [ ] [triangular-cdf](https://github.com/distributions-io/triangular-cdf)
-- [ ] [triangular-quantile](https://github.com/distributions-io/triangular-quantile)
+- [x] [triangular-pdf](https://github.com/distributions-io/triangular-pdf)
+- [x] [triangular-cdf](https://github.com/distributions-io/triangular-cdf)
+- [x] [triangular-quantile](https://github.com/distributions-io/triangular-quantile)
 - [ ] [triangular-mgf](https://github.com/distributions-io/triangular-mgf)
 - [ ] [triangular-mean](https://github.com/distributions-io/triangular-mean)
 - [ ] [triangular-median](https://github.com/distributions-io/triangular-median)
