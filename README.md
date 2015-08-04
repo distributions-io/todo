@@ -30,11 +30,11 @@ List
 - [x] [geometric-quantile](https://github.com/distributions-io/geometric-quantile)
 - [ ] [geometric-mgf](https://github.com/distributions-io/geometric-mgf)
 - [x] [geometric-mean](https://github.com/distributions-io/geometric-mean)
-- [ ] [geometric-median](https://github.com/distributions-io/geometric-median)
-- [ ] [geometric-variance](https://github.com/distributions-io/geometric-variance)
-- [ ] [geometric-skewness](https://github.com/distributions-io/geometric-skewness)
-- [ ] [geometric-ekurtosis](https://github.com/distributions-io/geometric-ekurtosis)
-- [ ] [geometric-entropy](https://github.com/distributions-io/geometric-entropy)
+- [x] [geometric-median](https://github.com/distributions-io/geometric-median)
+- [x] [geometric-variance](https://github.com/distributions-io/geometric-variance)
+- [x] [geometric-skewness](https://github.com/distributions-io/geometric-skewness)
+- [x] [geometric-ekurtosis](https://github.com/distributions-io/geometric-ekurtosis)
+- [x] [geometric-entropy](https://github.com/distributions-io/geometric-entropy)
 
 
 ### Hypergeometric Distribution
