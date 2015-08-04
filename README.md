@@ -140,11 +140,11 @@ List
 - [x] [exponential-quantile](https://github.com/distributions-io/exponential-quantile)
 - [ ] [exponential-mgf](https://github.com/distributions-io/exponential-mgf)
 - [x] [exponential-mean](https://github.com/distributions-io/exponential-mean)
-- [ ] [exponential-median](https://github.com/distributions-io/exponential-median)
-- [ ] [exponential-variance](https://github.com/distributions-io/exponential-variance)
+- [x] [exponential-median](https://github.com/distributions-io/exponential-median)
+- [x] [exponential-variance](https://github.com/distributions-io/exponential-variance)
 - [ ] [exponential-skewness](https://github.com/distributions-io/exponential-skewness)
 - [ ] [exponential-ekurtosis](https://github.com/distributions-io/exponential-ekurtosis)
-- [ ] [exponential-entropy](https://github.com/distributions-io/exponential-entropy)
+- [x] [exponential-entropy](https://github.com/distributions-io/exponential-entropy)
 
 ### F Distribution
 
