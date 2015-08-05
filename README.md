@@ -264,10 +264,10 @@ List
 - [x] [t-cdf](https://github.com/distributions-io/t-cdf)
 - [x] [t-quantile](https://github.com/distributions-io/t-quantile)
 - [x] [t-mean](https://github.com/distributions-io/t-mean)
-- [ ] [t-median](https://github.com/distributions-io/t-median)
-- [ ] [t-variance](https://github.com/distributions-io/t-variance)
-- [ ] [t-skewness](https://github.com/distributions-io/t-skewness)
-- [ ] [t-ekurtosis](https://github.com/distributions-io/t-ekurtosis)
+- [x] [t-median](https://github.com/distributions-io/t-median)
+- [x] [t-variance](https://github.com/distributions-io/t-variance)
+- [x] [t-skewness](https://github.com/distributions-io/t-skewness)
+- [x] [t-ekurtosis](https://github.com/distributions-io/t-ekurtosis)
 - [ ] [t-entropy](https://github.com/distributions-io/t-entropy)
 
  
