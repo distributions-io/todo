@@ -75,8 +75,8 @@ List
 - [x] [poisson-mean](https://github.com/distributions-io/poisson-mean)
 - [ ] [poisson-median](https://github.com/distributions-io/poisson-median)
 - [ ] [poisson-variance](https://github.com/distributions-io/poisson-variance)
-- [ ] [poisson-skewness](https://github.com/distributions-io/poisson-skewness)
-- [ ] [poisson-ekurtosis](https://github.com/distributions-io/poisson-ekurtosis)
+- [x] [poisson-skewness](https://github.com/distributions-io/poisson-skewness)
+- [x] [poisson-ekurtosis](https://github.com/distributions-io/poisson-ekurtosis)
 - [ ] [poisson-entropy](https://github.com/distributions-io/poisson-entropy)
 
 ## Continuous Distributions
@@ -250,11 +250,11 @@ List
 - [x] [rayleigh-quantile](https://github.com/distributions-io/rayleigh-quantile)
 - [ ] [rayleigh-mgf](https://github.com/distributions-io/rayleigh-mgf)
 - [x] [rayleigh-mean](https://github.com/distributions-io/rayleigh-mean)
-- [ ] [rayleigh-median](https://github.com/distributions-io/rayleigh-median)
-- [ ] [rayleigh-variance](https://github.com/distributions-io/rayleigh-variance)
-- [ ] [rayleigh-skewness](https://github.com/distributions-io/rayleigh-skewness)
-- [ ] [rayleigh-ekurtosis](https://github.com/distributions-io/rayleigh-ekurtosis)
-- [ ] [rayleigh-entropy](https://github.com/distributions-io/rayleigh-entropy)
+- [x] [rayleigh-median](https://github.com/distributions-io/rayleigh-median)
+- [x] [rayleigh-variance](https://github.com/distributions-io/rayleigh-variance)
+- [x] [rayleigh-skewness](https://github.com/distributions-io/rayleigh-skewness)
+- [x] [rayleigh-ekurtosis](https://github.com/distributions-io/rayleigh-ekurtosis)
+- [x] [rayleigh-entropy](https://github.com/distributions-io/rayleigh-entropy)
 
 
 ### Student's t Distribution
