@@ -112,10 +112,10 @@ List
 - [x] [chisquare-quantile](https://github.com/distributions-io/chisquare-quantile)
 - [ ] [chisquare-mgf](https://github.com/distributions-io/chisquare-mgf)
 - [x] [chisquare-mean](https://github.com/distributions-io/chisquare-mean)
-- [ ] [chisquare-median](https://github.com/distributions-io/chisquare-median)
-- [ ] [chisquare-variance](https://github.com/distributions-io/chisquare-variance)
-- [ ] [chisquare-skewness](https://github.com/distributions-io/chisquare-skewness)
-- [ ] [chisquare-ekurtosis](https://github.com/distributions-io/chisquare-ekurtosis)
+- [x] [chisquare-median](https://github.com/distributions-io/chisquare-median)
+- [x] [chisquare-variance](https://github.com/distributions-io/chisquare-variance)
+- [x] [chisquare-skewness](https://github.com/distributions-io/chisquare-skewness)
+- [x] [chisquare-ekurtosis](https://github.com/distributions-io/chisquare-ekurtosis)
 - [ ] [chisquare-entropy](https://github.com/distributions-io/chisquare-entropy)
 
 ### Erlang Distribution
