@@ -73,11 +73,11 @@ List
 - [x] [poisson-quantile](https://github.com/distributions-io/poisson-quantile)
 - [ ] [poisson-mgf](https://github.com/distributions-io/poisson-mgf)
 - [x] [poisson-mean](https://github.com/distributions-io/poisson-mean)
-- [ ] [poisson-median](https://github.com/distributions-io/poisson-median)
-- [ ] [poisson-variance](https://github.com/distributions-io/poisson-variance)
+- [x] [poisson-median](https://github.com/distributions-io/poisson-median)
+- [x] [poisson-variance](https://github.com/distributions-io/poisson-variance)
 - [x] [poisson-skewness](https://github.com/distributions-io/poisson-skewness)
 - [x] [poisson-ekurtosis](https://github.com/distributions-io/poisson-ekurtosis)
-- [ ] [poisson-entropy](https://github.com/distributions-io/poisson-entropy)
+- [x] [poisson-entropy](https://github.com/distributions-io/poisson-entropy)
 
 ## Continuous Distributions
 
