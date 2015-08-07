@@ -53,17 +53,17 @@ List
 
 ### Negative Binomial Distribution
 
-- [ ] [negbinomial](https://github.com/distributions-io/negbinomial)
-- [ ] [negbinomial-pmf](https://github.com/distributions-io/negbinomial-pmf)
-- [x] [negbinomial-cdf](https://github.com/distributions-io/negbinomial-cdf)
-- [x] [negbinomial-quantile](https://github.com/distributions-io/negbinomial-quantile)
-- [ ] [negbinomial-mgf](https://github.com/distributions-io/negbinomial-mgf)
-- [ ] [negbinomial-mean](https://github.com/distributions-io/negbinomial-mean)
-- [ ] [negbinomial-median](https://github.com/distributions-io/negbinomial-median)
-- [ ] [negbinomial-variance](https://github.com/distributions-io/negbinomial-variance)
-- [ ] [negbinomial-skewness](https://github.com/distributions-io/negbinomial-skewness)
-- [ ] [negbinomial-ekurtosis](https://github.com/distributions-io/negbinomial-ekurtosis)
-- [ ] [negbinomial-entropy](https://github.com/distributions-io/negbinomial-entropy)
+- [ ] [negative-binomial](https://github.com/distributions-io/negative-binomial)
+- [ ] [negative-binomial-pmf](https://github.com/distributions-io/negative-binomial-pmf)
+- [x] [negative-binomial-cdf](https://github.com/distributions-io/negative-binomial-cdf)
+- [x] [negative-binomial-quantile](https://github.com/distributions-io/negative-binomial-quantile)
+- [ ] [negative-binomial-mgf](https://github.com/distributions-io/negative-binomial-mgf)
+- [ ] [negative-binomial-mean](https://github.com/distributions-io/negative-binomial-mean)
+- [ ] [negative-binomial-median](https://github.com/distributions-io/negative-binomial-median)
+- [ ] [negative-binomial-variance](https://github.com/distributions-io/negative-binomial-variance)
+- [ ] [negative-binomial-skewness](https://github.com/distributions-io/negative-binomial-skewness)
+- [ ] [negative-binomial-ekurtosis](https://github.com/distributions-io/negative-binomial-ekurtosis)
+- [ ] [negative-binomial-entropy](https://github.com/distributions-io/negative-binomial-entropy)
 
 ### Poisson Distribution
 
@@ -87,7 +87,7 @@ List
 - [x] [beta-pdf](https://github.com/distributions-io/beta-pdf)
 - [x] [beta-cdf](https://github.com/distributions-io/beta-cdf)
 - [x] [beta-quantile](https://github.com/distributions-io/beta-quantile)
-- [ ] [beta-mgf](https://github.com/distributions-io/beta-mgf)
+- [x] [beta-mgf](https://github.com/distributions-io/beta-mgf)
 - [ ] [beta-mean](https://github.com/distributions-io/beta-mean)
 - [ ] [beta-median](https://github.com/distributions-io/beta-median)
 - [ ] [beta-variance](https://github.com/distributions-io/beta-variance)
@@ -247,7 +247,7 @@ List
 - [x] [rayleigh-pdf](https://github.com/distributions-io/rayleigh-pdf)
 - [x] [rayleigh-cdf](https://github.com/distributions-io/rayleigh-cdf)
 - [x] [rayleigh-quantile](https://github.com/distributions-io/rayleigh-quantile)
-- [ ] [rayleigh-mgf](https://github.com/distributions-io/rayleigh-mgf)
+- [x] [rayleigh-mgf](https://github.com/distributions-io/rayleigh-mgf)
 - [x] [rayleigh-mean](https://github.com/distributions-io/rayleigh-mean)
 - [x] [rayleigh-median](https://github.com/distributions-io/rayleigh-median)
 - [x] [rayleigh-variance](https://github.com/distributions-io/rayleigh-variance)
