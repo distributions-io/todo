@@ -20,7 +20,7 @@ List
 - [ ] [binomial-skewness](https://github.com/distributions-io/binomial-skewness)
 - [ ] [binomial-ekurtosis](https://github.com/distributions-io/binomial-ekurtosis)
 - [ ] [binomial-entropy](https://github.com/distributions-io/binomial-entropy)
-
+- [ ] [binomial-random](https://github.com/distributions-io/binomial-random)
 
 ### Geometric Distribution
 
@@ -35,6 +35,7 @@ List
 - [x] [geometric-skewness](https://github.com/distributions-io/geometric-skewness)
 - [x] [geometric-ekurtosis](https://github.com/distributions-io/geometric-ekurtosis)
 - [x] [geometric-entropy](https://github.com/distributions-io/geometric-entropy)
+- [ ] [geometric-random](https://github.com/distributions-io/geometric-random)
 
 
 ### Hypergeometric Distribution
@@ -50,6 +51,7 @@ List
 - [ ] [hypergeometric-skewness](https://github.com/distributions-io/hypergeometric-skewness)
 - [ ] [hypergeometric-ekurtosis](https://github.com/distributions-io/hypergeometric-ekurtosis)
 - [ ] [hypergeometric-entropy](https://github.com/distributions-io/hypergeometric-entropy)
+- [ ] [hypergeometric-random](https://github.com/distributions-io/hypergeometric-random)
 
 ### Negative Binomial Distribution
 
@@ -64,6 +66,7 @@ List
 - [ ] [negative-binomial-skewness](https://github.com/distributions-io/negative-binomial-skewness)
 - [ ] [negative-binomial-ekurtosis](https://github.com/distributions-io/negative-binomial-ekurtosis)
 - [ ] [negative-binomial-entropy](https://github.com/distributions-io/negative-binomial-entropy)
+- [ ] [negative-binomial-random](https://github.com/distributions-io/negative-binomial-random)
 
 ### Poisson Distribution
 
@@ -78,6 +81,8 @@ List
 - [x] [poisson-skewness](https://github.com/distributions-io/poisson-skewness)
 - [x] [poisson-ekurtosis](https://github.com/distributions-io/poisson-ekurtosis)
 - [x] [poisson-entropy](https://github.com/distributions-io/poisson-entropy)
+- [ ] [poisson-random](https://github.com/distributions-io/poisson-random)
+
 
 ## Continuous Distributions
 
@@ -94,6 +99,7 @@ List
 - [ ] [beta-skewness](https://github.com/distributions-io/beta-skewness)
 - [ ] [beta-ekurtosis](https://github.com/distributions-io/beta-ekurtosis)
 - [ ] [beta-entropy](https://github.com/distributions-io/beta-entropy)
+- [ ] [beta-random](https://github.com/distributions-io/beta-random)
 
 ### Cauchy Distribution
 
@@ -103,7 +109,8 @@ List
 - [x] [cauchy-quantile](https://github.com/distributions-io/cauchy-quantile)
 - [ ] [cauchy-median](https://github.com/distributions-io/cauchy-median)
 - [ ] [cauchy-entropy](https://github.com/distributions-io/cauchy-entropy)
-
+- [ ] [cauchy-random](https://github.com/distributions-io/cauchy-random)
+- 
 ### Chisquare Distribution
 
 - [ ] [chisquare](https://github.com/distributions-io/chisquare)
@@ -117,6 +124,7 @@ List
 - [x] [chisquare-skewness](https://github.com/distributions-io/chisquare-skewness)
 - [x] [chisquare-ekurtosis](https://github.com/distributions-io/chisquare-ekurtosis)
 - [ ] [chisquare-entropy](https://github.com/distributions-io/chisquare-entropy)
+- [ ] [chisquare-random](https://github.com/distributions-io/chisquare-random)
 
 ### Erlang Distribution
 
@@ -131,6 +139,7 @@ List
 - [ ] [erlang-skewness](https://github.com/distributions-io/erlang-skewness)
 - [ ] [erlang-ekurtosis](https://github.com/distributions-io/erlang-ekurtosis)
 - [ ] [erlang-entropy](https://github.com/distributions-io/erlang-entropy)
+- [ ] [erlang-random](https://github.com/distributions-io/erlang-random)
 
 ### Exponential Distribution
 
@@ -145,6 +154,7 @@ List
 - [x] [exponential-skewness](https://github.com/distributions-io/exponential-skewness)
 - [x] [exponential-ekurtosis](https://github.com/distributions-io/exponential-ekurtosis)
 - [x] [exponential-entropy](https://github.com/distributions-io/exponential-entropy)
+- [ ] [exponential-random](https://github.com/distributions-io/exponential-random)
 
 ### F Distribution
 
@@ -158,6 +168,7 @@ List
 - [ ] [f-skewness](https://github.com/distributions-io/f-skewness)
 - [ ] [f-ekurtosis](https://github.com/distributions-io/f-ekurtosis)
 - [ ] [f-entropy](https://github.com/distributions-io/f-entropy)
+- [ ] [f-random](https://github.com/distributions-io/f-random)
 
 ### Gamma Distribution
 
@@ -172,6 +183,7 @@ List
 - [ ] [gamma-skewness](https://github.com/distributions-io/gamma-skewness)
 - [ ] [gamma-ekurtosis](https://github.com/distributions-io/gamma-ekurtosis)
 - [ ] [gamma-entropy](https://github.com/distributions-io/gamma-entropy)
+- [ ] [gamma-random](https://github.com/distributions-io/gamma-random)
 
 ### Gumbel Distribution
 
@@ -186,6 +198,7 @@ List
 - [ ] [gumbel-skewness](https://github.com/distributions-io/gumbel-skewness)
 - [ ] [gumbel-ekurtosis](https://github.com/distributions-io/gumbel-ekurtosis)
 - [ ] [gumbel-entropy](https://github.com/distributions-io/gumbel-entropy)
+- [ ] [gumbel-random](https://github.com/distributions-io/gumbel-random)
 
 ### Inverse-Gamma Distribution
 
@@ -199,6 +212,7 @@ List
 - [ ] [invgamma-skewness](https://github.com/distributions-io/invgamma-skewness)
 - [ ] [invgamma-ekurtosis](https://github.com/distributions-io/invgamma-ekurtosis)
 - [ ] [invgamma-entropy](https://github.com/distributions-io/invgamma-entropy)
+- [ ] [invgamma-random](https://github.com/distributions-io/invgamma-random)
 
 ### Laplace / Double Exponential Distribution
 
@@ -213,7 +227,8 @@ List
 - [ ] [laplace-skewness](https://github.com/distributions-io/laplace-skewness)
 - [ ] [laplace-ekurtosis](https://github.com/distributions-io/laplace-ekurtosis)
 - [ ] [laplace-entropy](https://github.com/distributions-io/laplace-entropy)
-
+- [ ] [laplace-random](https://github.com/distributions-io/laplace-random)
+- 
 ### Logistic Distribution
 
 - [ ] [logistic](https://github.com/distributions-io/logistic)
@@ -227,6 +242,7 @@ List
 - [ ] [logistic-skewness](https://github.com/distributions-io/logistic-skewness)
 - [ ] [logistic-ekurtosis](https://github.com/distributions-io/logistic-ekurtosis)
 - [ ] [logistic-entropy](https://github.com/distributions-io/logistic-entropy)
+- [ ] [logistic-random](https://github.com/distributions-io/logistic-random)
 
 ### Lognormal Distribution
 
@@ -240,6 +256,7 @@ List
 - [ ] [lognormal-skewness](https://github.com/distributions-io/lognormal-skewness)
 - [ ] [lognormal-ekurtosis](https://github.com/distributions-io/lognormal-ekurtosis)
 - [ ] [lognormal-entropy](https://github.com/distributions-io/lognormal-entropy)
+- [ ] [lognormal-random](https://github.com/distributions-io/lognormal-random)
 
 ### Rayleigh Distribution
 
@@ -254,7 +271,8 @@ List
 - [x] [rayleigh-skewness](https://github.com/distributions-io/rayleigh-skewness)
 - [x] [rayleigh-ekurtosis](https://github.com/distributions-io/rayleigh-ekurtosis)
 - [x] [rayleigh-entropy](https://github.com/distributions-io/rayleigh-entropy)
-
+- [ ] [rayleigh-random](https://github.com/distributions-io/rayleigh-random)
+- 
 
 ### Student's t Distribution
 
@@ -268,7 +286,7 @@ List
 - [x] [t-skewness](https://github.com/distributions-io/t-skewness)
 - [x] [t-ekurtosis](https://github.com/distributions-io/t-ekurtosis)
 - [ ] [t-entropy](https://github.com/distributions-io/t-entropy)
-
+- [ ] [t-random](https://github.com/distributions-io/t-random)
  
 ### Continuous Uniform Distribution
 
@@ -283,7 +301,7 @@ List
 - [ ] [uniform-skewness](https://github.com/distributions-io/uniform-skewness)
 - [ ] [uniform-ekurtosis](https://github.com/distributions-io/uniform-ekurtosis)
 - [ ] [uniform-entropy](https://github.com/distributions-io/uniform-entropy)
-
+- [ ] [uniform-random](https://github.com/distributions-io/uniform-random)
 
 ### Normal Distribution
 
@@ -298,7 +316,7 @@ List
 - [ ] [normal-skewness](https://github.com/distributions-io/normal-skewness)
 - [ ] [normal-ekurtosis](https://github.com/distributions-io/normal-ekurtosis)
 - [ ] [normal-entropy](https://github.com/distributions-io/normal-entropy)
-
+- [ ] [normal-random](https://github.com/distributions-io/normal-random)
 
 ### Pareto Distribution (Type 1) 
 
@@ -313,7 +331,7 @@ List
 - [ ] [pareto-type1-skewness](https://github.com/distributions-io/pareto-type1-skewness)
 - [ ] [pareto-type1-ekurtosis](https://github.com/distributions-io/pareto-type1-ekurtosis)
 - [ ] [pareto-type1-entropy](https://github.com/distributions-io/pareto-type1-entropy)
-
+- [ ] [pareto-type1-random](https://github.com/distributions-io/pareto-type1-random)
 
 ### Triangular Distribution
 
@@ -328,7 +346,7 @@ List
 - [ ] [triangular-skewness](https://github.com/distributions-io/triangular-skewness)
 - [ ] [triangular-ekurtosis](https://github.com/distributions-io/triangular-ekurtosis)
 - [ ] [triangular-entropy](https://github.com/distributions-io/triangular-entropy)
-
+- [ ] [triangular-random](https://github.com/distributions-io/triangular-random)
 
 ### Weibull Distribution 
 
@@ -343,7 +361,7 @@ List
 - [ ] [weibull-skewness](https://github.com/distributions-io/weibull-skewness)
 - [ ] [weibull-ekurtosis](https://github.com/distributions-io/weibull-ekurtosis)
 - [ ] [weibull-entropy](https://github.com/distributions-io/weibull-entropy)
-
+- [ ] [weibull-random](https://github.com/distributions-io/weibull-random)
 
 # Multivariate Distributions
 
@@ -354,7 +372,8 @@ List
 - [ ] [dirichlet-cdf](https://github.com/distributions-io/dirichlet-cdf)
 - [ ] [dirichlet-quantile](https://github.com/distributions-io/dirichlet-quantile)
 - [ ] [dirichlet-mgf](https://github.com/distributions-io/dirichlet-mgf)
-
+- [ ] [dirichlet-random](https://github.com/distributions-io/dirichlet-random)
+- 
 ### Multinomial Distribution
 
 - [ ] [multinomial](https://github.com/distributions-io/multinomial)
@@ -362,6 +381,7 @@ List
 - [ ] [multinomial-cdf](https://github.com/distributions-io/multinomial-cdf)
 - [ ] [multinomial-quantile](https://github.com/distributions-io/multinomial-quantile)
 - [ ] [multinomial-mgf](https://github.com/distributions-io/multinomial-mgf)
+- [ ] [multinomial-random](https://github.com/distributions-io/multinomial-random)
 
 ### Multivariate Normal
 
@@ -370,4 +390,4 @@ List
 - [ ] [mvnormal-cdf](https://github.com/distributions-io/mvnormal-cdf)
 - [ ] [mvnormal-quantile](https://github.com/distributions-io/mvnormal-quantile)
 - [ ] [mvnormal-mgf](https://github.com/distributions-io/mvnormal-mgf)
-
+- [ ] [mvnormal-random](https://github.com/distributions-io/mvnormal-random)
