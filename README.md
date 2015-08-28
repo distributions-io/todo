@@ -110,7 +110,7 @@ List
 - [ ] [cauchy-median](https://github.com/distributions-io/cauchy-median)
 - [ ] [cauchy-entropy](https://github.com/distributions-io/cauchy-entropy)
 - [ ] [cauchy-random](https://github.com/distributions-io/cauchy-random)
-- 
+
 ### Chisquare Distribution
 
 - [ ] [chisquare](https://github.com/distributions-io/chisquare)
@@ -154,7 +154,7 @@ List
 - [x] [exponential-skewness](https://github.com/distributions-io/exponential-skewness)
 - [x] [exponential-ekurtosis](https://github.com/distributions-io/exponential-ekurtosis)
 - [x] [exponential-entropy](https://github.com/distributions-io/exponential-entropy)
-- [ ] [exponential-random](https://github.com/distributions-io/exponential-random)
+- [x] [exponential-random](https://github.com/distributions-io/exponential-random)
 
 ### F Distribution
 
@@ -198,7 +198,7 @@ List
 - [ ] [gumbel-skewness](https://github.com/distributions-io/gumbel-skewness)
 - [ ] [gumbel-ekurtosis](https://github.com/distributions-io/gumbel-ekurtosis)
 - [ ] [gumbel-entropy](https://github.com/distributions-io/gumbel-entropy)
-- [ ] [gumbel-random](https://github.com/distributions-io/gumbel-random)
+- [x] [gumbel-random](https://github.com/distributions-io/gumbel-random)
 
 ### Inverse-Gamma Distribution
 
@@ -228,7 +228,7 @@ List
 - [ ] [laplace-ekurtosis](https://github.com/distributions-io/laplace-ekurtosis)
 - [ ] [laplace-entropy](https://github.com/distributions-io/laplace-entropy)
 - [ ] [laplace-random](https://github.com/distributions-io/laplace-random)
-- 
+
 ### Logistic Distribution
 
 - [ ] [logistic](https://github.com/distributions-io/logistic)
@@ -272,7 +272,6 @@ List
 - [x] [rayleigh-ekurtosis](https://github.com/distributions-io/rayleigh-ekurtosis)
 - [x] [rayleigh-entropy](https://github.com/distributions-io/rayleigh-entropy)
 - [ ] [rayleigh-random](https://github.com/distributions-io/rayleigh-random)
-- 
 
 ### Student's t Distribution
 
@@ -361,7 +360,7 @@ List
 - [ ] [weibull-skewness](https://github.com/distributions-io/weibull-skewness)
 - [ ] [weibull-ekurtosis](https://github.com/distributions-io/weibull-ekurtosis)
 - [ ] [weibull-entropy](https://github.com/distributions-io/weibull-entropy)
-- [ ] [weibull-random](https://github.com/distributions-io/weibull-random)
+- [x] [weibull-random](https://github.com/distributions-io/weibull-random)
 
 # Multivariate Distributions
 
