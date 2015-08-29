@@ -35,7 +35,7 @@ List
 - [x] [geometric-skewness](https://github.com/distributions-io/geometric-skewness)
 - [x] [geometric-ekurtosis](https://github.com/distributions-io/geometric-ekurtosis)
 - [x] [geometric-entropy](https://github.com/distributions-io/geometric-entropy)
-- [ ] [geometric-random](https://github.com/distributions-io/geometric-random)
+- [x] [geometric-random](https://github.com/distributions-io/geometric-random)
 
 
 ### Hypergeometric Distribution
@@ -372,7 +372,7 @@ List
 - [ ] [dirichlet-quantile](https://github.com/distributions-io/dirichlet-quantile)
 - [ ] [dirichlet-mgf](https://github.com/distributions-io/dirichlet-mgf)
 - [ ] [dirichlet-random](https://github.com/distributions-io/dirichlet-random)
-- 
+
 ### Multinomial Distribution
 
 - [ ] [multinomial](https://github.com/distributions-io/multinomial)
