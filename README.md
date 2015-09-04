@@ -139,7 +139,7 @@ List
 - [ ] [erlang-skewness](https://github.com/distributions-io/erlang-skewness)
 - [ ] [erlang-ekurtosis](https://github.com/distributions-io/erlang-ekurtosis)
 - [ ] [erlang-entropy](https://github.com/distributions-io/erlang-entropy)
-- [ ] [erlang-random](https://github.com/distributions-io/erlang-random)
+- [x] [erlang-random](https://github.com/distributions-io/erlang-random)
 
 ### Exponential Distribution
 
@@ -242,7 +242,7 @@ List
 - [ ] [logistic-skewness](https://github.com/distributions-io/logistic-skewness)
 - [ ] [logistic-ekurtosis](https://github.com/distributions-io/logistic-ekurtosis)
 - [ ] [logistic-entropy](https://github.com/distributions-io/logistic-entropy)
-- [ ] [logistic-random](https://github.com/distributions-io/logistic-random)
+- [x] [logistic-random](https://github.com/distributions-io/logistic-random)
 
 ### Lognormal Distribution
 
@@ -271,7 +271,7 @@ List
 - [x] [rayleigh-skewness](https://github.com/distributions-io/rayleigh-skewness)
 - [x] [rayleigh-ekurtosis](https://github.com/distributions-io/rayleigh-ekurtosis)
 - [x] [rayleigh-entropy](https://github.com/distributions-io/rayleigh-entropy)
-- [ ] [rayleigh-random](https://github.com/distributions-io/rayleigh-random)
+- [x] [rayleigh-random](https://github.com/distributions-io/rayleigh-random)
 
 ### Student's t Distribution
 
@@ -300,7 +300,7 @@ List
 - [ ] [uniform-skewness](https://github.com/distributions-io/uniform-skewness)
 - [ ] [uniform-ekurtosis](https://github.com/distributions-io/uniform-ekurtosis)
 - [ ] [uniform-entropy](https://github.com/distributions-io/uniform-entropy)
-- [ ] [uniform-random](https://github.com/distributions-io/uniform-random)
+- [x] [uniform-random](https://github.com/distributions-io/uniform-random)
 
 ### Normal Distribution
 
