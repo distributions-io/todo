@@ -227,7 +227,7 @@ List
 - [ ] [laplace-skewness](https://github.com/distributions-io/laplace-skewness)
 - [ ] [laplace-ekurtosis](https://github.com/distributions-io/laplace-ekurtosis)
 - [ ] [laplace-entropy](https://github.com/distributions-io/laplace-entropy)
-- [ ] [laplace-random](https://github.com/distributions-io/laplace-random)
+- [x] [laplace-random](https://github.com/distributions-io/laplace-random)
 
 ### Logistic Distribution
 
@@ -345,7 +345,7 @@ List
 - [ ] [triangular-skewness](https://github.com/distributions-io/triangular-skewness)
 - [ ] [triangular-ekurtosis](https://github.com/distributions-io/triangular-ekurtosis)
 - [ ] [triangular-entropy](https://github.com/distributions-io/triangular-entropy)
-- [ ] [triangular-random](https://github.com/distributions-io/triangular-random)
+- [x] [triangular-random](https://github.com/distributions-io/triangular-random)
 
 ### Weibull Distribution 
 
