@@ -20,7 +20,7 @@ List
 - [ ] [binomial-skewness](https://github.com/distributions-io/binomial-skewness)
 - [ ] [binomial-ekurtosis](https://github.com/distributions-io/binomial-ekurtosis)
 - [ ] [binomial-entropy](https://github.com/distributions-io/binomial-entropy)
-- [ ] [binomial-random](https://github.com/distributions-io/binomial-random)
+- [x] [binomial-random](https://github.com/distributions-io/binomial-random)
 
 ### Geometric Distribution
 
@@ -81,7 +81,7 @@ List
 - [x] [poisson-skewness](https://github.com/distributions-io/poisson-skewness)
 - [x] [poisson-ekurtosis](https://github.com/distributions-io/poisson-ekurtosis)
 - [x] [poisson-entropy](https://github.com/distributions-io/poisson-entropy)
-- [ ] [poisson-random](https://github.com/distributions-io/poisson-random)
+- [x] [poisson-random](https://github.com/distributions-io/poisson-random)
 
 
 ## Continuous Distributions
