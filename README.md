@@ -183,7 +183,7 @@ List
 - [ ] [gamma-skewness](https://github.com/distributions-io/gamma-skewness)
 - [ ] [gamma-ekurtosis](https://github.com/distributions-io/gamma-ekurtosis)
 - [ ] [gamma-entropy](https://github.com/distributions-io/gamma-entropy)
-- [ ] [gamma-random](https://github.com/distributions-io/gamma-random)
+- [x] [gamma-random](https://github.com/distributions-io/gamma-random)
 
 ### Gumbel Distribution
 
@@ -315,7 +315,7 @@ List
 - [ ] [normal-skewness](https://github.com/distributions-io/normal-skewness)
 - [ ] [normal-ekurtosis](https://github.com/distributions-io/normal-ekurtosis)
 - [ ] [normal-entropy](https://github.com/distributions-io/normal-entropy)
-- [ ] [normal-random](https://github.com/distributions-io/normal-random)
+- [x] [normal-random](https://github.com/distributions-io/normal-random)
 
 ### Pareto Distribution (Type 1) 
 
