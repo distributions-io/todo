@@ -109,7 +109,7 @@ List
 - [x] [cauchy-quantile](https://github.com/distributions-io/cauchy-quantile)
 - [ ] [cauchy-median](https://github.com/distributions-io/cauchy-median)
 - [ ] [cauchy-entropy](https://github.com/distributions-io/cauchy-entropy)
-- [ ] [cauchy-random](https://github.com/distributions-io/cauchy-random)
+- [x] [cauchy-random](https://github.com/distributions-io/cauchy-random)
 
 ### Chisquare Distribution
 
@@ -256,7 +256,7 @@ List
 - [ ] [lognormal-skewness](https://github.com/distributions-io/lognormal-skewness)
 - [ ] [lognormal-ekurtosis](https://github.com/distributions-io/lognormal-ekurtosis)
 - [ ] [lognormal-entropy](https://github.com/distributions-io/lognormal-entropy)
-- [ ] [lognormal-random](https://github.com/distributions-io/lognormal-random)
+- [x] [lognormal-random](https://github.com/distributions-io/lognormal-random)
 
 ### Rayleigh Distribution
 
