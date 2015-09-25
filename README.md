@@ -124,7 +124,7 @@ List
 - [x] [chisquare-skewness](https://github.com/distributions-io/chisquare-skewness)
 - [x] [chisquare-ekurtosis](https://github.com/distributions-io/chisquare-ekurtosis)
 - [ ] [chisquare-entropy](https://github.com/distributions-io/chisquare-entropy)
-- [ ] [chisquare-random](https://github.com/distributions-io/chisquare-random)
+- [x] [chisquare-random](https://github.com/distributions-io/chisquare-random)
 
 ### Erlang Distribution
 
@@ -168,7 +168,7 @@ List
 - [ ] [f-skewness](https://github.com/distributions-io/f-skewness)
 - [ ] [f-ekurtosis](https://github.com/distributions-io/f-ekurtosis)
 - [ ] [f-entropy](https://github.com/distributions-io/f-entropy)
-- [ ] [f-random](https://github.com/distributions-io/f-random)
+- [x] [f-random](https://github.com/distributions-io/f-random)
 
 ### Gamma Distribution
 
