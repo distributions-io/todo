@@ -59,7 +59,7 @@ List
 - [ ] [negative-binomial-pmf](https://github.com/distributions-io/negative-binomial-pmf)
 - [x] [negative-binomial-cdf](https://github.com/distributions-io/negative-binomial-cdf)
 - [x] [negative-binomial-quantile](https://github.com/distributions-io/negative-binomial-quantile)
-- [ ] [negative-binomial-mgf](https://github.com/distributions-io/negative-binomial-mgf)
+- [x] [negative-binomial-mgf](https://github.com/distributions-io/negative-binomial-mgf)
 - [ ] [negative-binomial-mean](https://github.com/distributions-io/negative-binomial-mean)
 - [ ] [negative-binomial-median](https://github.com/distributions-io/negative-binomial-median)
 - [ ] [negative-binomial-variance](https://github.com/distributions-io/negative-binomial-variance)
@@ -99,7 +99,7 @@ List
 - [ ] [beta-skewness](https://github.com/distributions-io/beta-skewness)
 - [ ] [beta-ekurtosis](https://github.com/distributions-io/beta-ekurtosis)
 - [ ] [beta-entropy](https://github.com/distributions-io/beta-entropy)
-- [ ] [beta-random](https://github.com/distributions-io/beta-random)
+- [x] [beta-random](https://github.com/distributions-io/beta-random)
 
 ### Cauchy Distribution
 
@@ -285,7 +285,7 @@ List
 - [x] [t-skewness](https://github.com/distributions-io/t-skewness)
 - [x] [t-ekurtosis](https://github.com/distributions-io/t-ekurtosis)
 - [ ] [t-entropy](https://github.com/distributions-io/t-entropy)
-- [ ] [t-random](https://github.com/distributions-io/t-random)
+- [x] [t-random](https://github.com/distributions-io/t-random)
  
 ### Continuous Uniform Distribution
 
