@@ -41,7 +41,7 @@ List
 ### Hypergeometric Distribution
 
 - [ ] [hypergeometric](https://github.com/distributions-io/hypergeometric)
-- [ ] [hypergeometric-pmf](https://github.com/distributions-io/hypergeometric-pmf)
+- [x] [hypergeometric-pmf](https://github.com/distributions-io/hypergeometric-pmf)
 - [ ] [hypergeometric-cdf](https://github.com/distributions-io/hypergeometric-cdf)
 - [ ] [hypergeometric-quantile](https://github.com/distributions-io/hypergeometric-quantile)
 - [ ] [hypergeometric-mgf](https://github.com/distributions-io/hypergeometric-mgf)
@@ -51,7 +51,7 @@ List
 - [ ] [hypergeometric-skewness](https://github.com/distributions-io/hypergeometric-skewness)
 - [ ] [hypergeometric-ekurtosis](https://github.com/distributions-io/hypergeometric-ekurtosis)
 - [ ] [hypergeometric-entropy](https://github.com/distributions-io/hypergeometric-entropy)
-- [ ] [hypergeometric-random](https://github.com/distributions-io/hypergeometric-random)
+- [x] [hypergeometric-random](https://github.com/distributions-io/hypergeometric-random)
 
 ### Negative Binomial Distribution
 
@@ -66,7 +66,7 @@ List
 - [ ] [negative-binomial-skewness](https://github.com/distributions-io/negative-binomial-skewness)
 - [ ] [negative-binomial-ekurtosis](https://github.com/distributions-io/negative-binomial-ekurtosis)
 - [ ] [negative-binomial-entropy](https://github.com/distributions-io/negative-binomial-entropy)
-- [ ] [negative-binomial-random](https://github.com/distributions-io/negative-binomial-random)
+- [x] [negative-binomial-random](https://github.com/distributions-io/negative-binomial-random)
 
 ### Poisson Distribution
 
