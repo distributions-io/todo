@@ -212,7 +212,7 @@ List
 - [ ] [invgamma-skewness](https://github.com/distributions-io/invgamma-skewness)
 - [ ] [invgamma-ekurtosis](https://github.com/distributions-io/invgamma-ekurtosis)
 - [ ] [invgamma-entropy](https://github.com/distributions-io/invgamma-entropy)
-- [ ] [invgamma-random](https://github.com/distributions-io/invgamma-random)
+- [x] [invgamma-random](https://github.com/distributions-io/invgamma-random)
 
 ### Laplace / Double Exponential Distribution
 
@@ -330,7 +330,7 @@ List
 - [ ] [pareto-type1-skewness](https://github.com/distributions-io/pareto-type1-skewness)
 - [ ] [pareto-type1-ekurtosis](https://github.com/distributions-io/pareto-type1-ekurtosis)
 - [ ] [pareto-type1-entropy](https://github.com/distributions-io/pareto-type1-entropy)
-- [ ] [pareto-type1-random](https://github.com/distributions-io/pareto-type1-random)
+- [x] [pareto-type1-random](https://github.com/distributions-io/pareto-type1-random)
 
 ### Triangular Distribution
 
