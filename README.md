@@ -42,8 +42,8 @@ List
 
 - [ ] [hypergeometric](https://github.com/distributions-io/hypergeometric)
 - [x] [hypergeometric-pmf](https://github.com/distributions-io/hypergeometric-pmf)
-- [ ] [hypergeometric-cdf](https://github.com/distributions-io/hypergeometric-cdf)
-- [ ] [hypergeometric-quantile](https://github.com/distributions-io/hypergeometric-quantile)
+- [x] [hypergeometric-cdf](https://github.com/distributions-io/hypergeometric-cdf)
+- [x] [hypergeometric-quantile](https://github.com/distributions-io/hypergeometric-quantile)
 - [ ] [hypergeometric-mgf](https://github.com/distributions-io/hypergeometric-mgf)
 - [ ] [hypergeometric-mean](https://github.com/distributions-io/hypergeometric-mean)
 - [ ] [hypergeometric-median](https://github.com/distributions-io/hypergeometric-median)
@@ -321,8 +321,8 @@ List
 
 - [ ] [pareto-type1](https://github.com/distributions-io/pareto-type1)
 - [x] [pareto-type1-pdf](https://github.com/distributions-io/pareto-type1-pdf)
-- [ ] [pareto-type1-cdf](https://github.com/distributions-io/pareto-type1-cdf)
-- [ ] [pareto-type1-quantile](https://github.com/distributions-io/pareto-type1-quantile)
+- [x] [pareto-type1-cdf](https://github.com/distributions-io/pareto-type1-cdf)
+- [x] [pareto-type1-quantile](https://github.com/distributions-io/pareto-type1-quantile)
 - [ ] [pareto-type1-mgf](https://github.com/distributions-io/pareto-type1-mgf)
 - [ ] [pareto-type1-mean](https://github.com/distributions-io/pareto-type1-mean)
 - [ ] [pareto-type1-median](https://github.com/distributions-io/pareto-type1-median)
