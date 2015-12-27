@@ -56,7 +56,7 @@ List
 ### Negative Binomial Distribution
 
 - [ ] [negative-binomial](https://github.com/distributions-io/negative-binomial)
-- [ ] [negative-binomial-pmf](https://github.com/distributions-io/negative-binomial-pmf)
+- [x] [negative-binomial-pmf](https://github.com/distributions-io/negative-binomial-pmf)
 - [x] [negative-binomial-cdf](https://github.com/distributions-io/negative-binomial-cdf)
 - [x] [negative-binomial-quantile](https://github.com/distributions-io/negative-binomial-quantile)
 - [x] [negative-binomial-mgf](https://github.com/distributions-io/negative-binomial-mgf)
@@ -159,7 +159,7 @@ List
 ### F Distribution
 
 - [ ] [f](https://github.com/distributions-io/f)
-- [ ] [f-pdf](https://github.com/distributions-io/f-pdf)
+- [x] [f-pdf](https://github.com/distributions-io/f-pdf)
 - [x] [f-cdf](https://github.com/distributions-io/f-cdf)
 - [x] [f-quantile](https://github.com/distributions-io/f-quantile)
 - [ ] [f-mean](https://github.com/distributions-io/f-mean)
