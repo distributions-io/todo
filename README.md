@@ -349,18 +349,18 @@ List
 
 ### Truncated Normal Distribution
 
-- [ ] [truncated-normal](https://github.com/distributions-io/triangular)
-- [ ] [truncated-normal-pdf](https://github.com/distributions-io/triangular-pdf)
-- [ ] [truncated-normal-cdf](https://github.com/distributions-io/triangular-cdf)
-- [ ] [truncated-normal-quantile](https://github.com/distributions-io/triangular-quantile)
-- [ ] [truncated-normal-mgf](https://github.com/distributions-io/triangular-mgf)
-- [ ] [truncated-normal-mean](https://github.com/distributions-io/triangular-mean)
-- [ ] [truncated-normal-median](https://github.com/distributions-io/triangular-median)
-- [ ] [truncated-normal-variance](https://github.com/distributions-io/triangular-variance)
-- [ ] [truncated-normal-skewness](https://github.com/distributions-io/triangular-skewness)
-- [ ] [truncated-normal-ekurtosis](https://github.com/distributions-io/triangular-ekurtosis)
-- [ ] [truncated-normal-entropy](https://github.com/distributions-io/triangular-entropy)
-- [ ] [truncated-normal-random](https://github.com/distributions-io/triangular-random)
+- [ ] [truncated-normal](https://github.com/distributions-io/truncated-normal)
+- [ ] [truncated-normal-pdf](https://github.com/distributions-io/truncated-normal-pdf)
+- [ ] [truncated-normal-cdf](https://github.com/distributions-io/truncated-normal-cdf)
+- [ ] [truncated-normal-quantile](https://github.com/distributions-io/truncated-normal-quantile)
+- [ ] [truncated-normal-mgf](https://github.com/distributions-io/truncated-normal-mgf)
+- [ ] [truncated-normal-mean](https://github.com/distributions-io/truncated-normal-mean)
+- [ ] [truncated-normal-median](https://github.com/distributions-io/truncated-normal-median)
+- [ ] [truncated-normal-variance](https://github.com/distributions-io/truncated-normal-variance)
+- [ ] [truncated-normal-skewness](https://github.com/distributions-io/truncated-normal-skewness)
+- [ ] [truncated-normal-ekurtosis](https://github.com/distributions-io/truncated-normal-ekurtosis)
+- [ ] [truncated-normal-entropy](https://github.com/distributions-io/truncated-normal-entropy)
+- [ ] [truncated-normal-random](https://github.com/distributions-io/truncated-normal-random)
 
 ### Weibull Distribution 
 
