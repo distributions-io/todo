@@ -350,7 +350,7 @@ List
 ### Truncated Normal Distribution
 
 - [ ] [truncated-normal](https://github.com/distributions-io/truncated-normal)
-- [ ] [truncated-normal-pdf](https://github.com/distributions-io/truncated-normal-pdf)
+- [x] [truncated-normal-pdf](https://github.com/distributions-io/truncated-normal-pdf)
 - [ ] [truncated-normal-cdf](https://github.com/distributions-io/truncated-normal-cdf)
 - [ ] [truncated-normal-quantile](https://github.com/distributions-io/truncated-normal-quantile)
 - [ ] [truncated-normal-mgf](https://github.com/distributions-io/truncated-normal-mgf)
